@@ -8,4 +8,4 @@ F(t) is the number of fish at time t. <br>
 S(t) is the number of sharks at time t. <br>
 b1, d1, b2, d2 are parameters independent of F and S.
 
-
+The eqations (1) and (2) are known as the *Lotka–Volterra* equations.
